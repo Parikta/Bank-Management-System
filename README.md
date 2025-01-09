@@ -60,6 +60,6 @@ Welcome to the **Bank Management System**, a Python-based command-line applicati
 
 - Utilizes date and time functions to keep track of transactions and account activities.
 
-![]FlowChat .pdf
+
 
 [Bank Management System Flowchart](./Bank%20Management%20System%20FlowChat%20(1).pdf)
